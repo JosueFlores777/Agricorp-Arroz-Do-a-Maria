@@ -1,0 +1,104 @@
+{
+  "recetas": [
+    {
+      "id": 1,
+      "nombre": "Gallo Pinto tradicional",
+      "img": "assets/img/blog/blog-s-1-1.jpg",
+      "img2": "assets/img/blog/recent-post-1-1.jpg",
+      "descripcion_breve": "El gallo pinto es el corazón del desayuno nicaragüense. Con arroz Doña María, el sabor y la textura son perfectos para revivir los sabores de siempre.",
+      "ingredientes": [
+        "2 tazas de arroz Doña María (cocido del día anterior)",
+        "1 ½ taza de frijoles cocidos con algo de caldo",
+        "½ cebolla blanca picada",
+        "½ chiltoma picada",
+        "Aceite",
+        "Sal al gusto"
+      ],
+      "preparacion": [
+        "En una sartén grande, calentar un poco de aceite y sofreír la cebolla y chiltoma hasta dorar.",
+        "Agregar los frijoles con un poco de su caldo.",
+        "Cuando todo esté hirviendo suavemente, incorporar el arroz cocido.",
+        "Revolver bien y cocinar a fuego medio por 5 minutos hasta que quede bien mezclado y ligeramente dorado.",
+        "Servir caliente con tortilla, queso y crema."
+      ],
+      "tip": "Usa arroz del día anterior para que quede más suelto y tostado."
+    },
+    {
+      "id": 2,
+      "nombre": "Arroz a la valenciana",
+      "img": "assets/img/blog/blog-s-1-1.jpg",
+      "img2": "assets/img/blog/recent-post-1-1.jpg",
+      "descripcion_breve": "Color, sabor y tradición en un solo plato. La valenciana nica es la reina de las fiestas familiares. Con arroz Doña María, queda rendidora y suelta.",
+      "ingredientes": [
+        "2 tazas de arroz Doña María",
+        "1 pechuga de pollo cocida y desmenuzada",
+        "1 chorizo o salchicha cortada en rodajas",
+        "1 zanahoria rallada",
+        "1 taza de petit pois",
+        "½ taza de salsa de tomate",
+        "1 cubito de pollo (opcional)",
+        "½ cebolla y ½ chiltoma picados",
+        "Sal y pimienta al gusto",
+        "Agua o caldo"
+      ],
+      "preparacion": [
+        "En una olla con aceite, sofreí la cebolla, la chiltoma, la zanahoria y la salsa de tomate.",
+        "Agregar la salsa de tomate, el pollo y el chorizo. Revuelve bien.",
+        "Incorporar el arroz, mezclar y añadir agua (o caldo) hasta cubrir por 2 dedos.",
+        "Cocinar a fuego medio tapado, sin mover, hasta que el arroz esté cocido y se haya absorbido el líquido.",
+        "Al final, agregar los petit pois y dejar reposar unos minutos antes de servir."
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Arroz a la jardinera",
+      "img": "assets/img/blog/blog-s-1-1.jpg",
+      "img2": "assets/img/blog/recent-post-1-1.jpg",
+      "descripcion_breve": "Una receta ligera, colorida y perfecta para el almuerzo de todos los días. El arroz Doña María permite que cada vegetal se luzca con su sabor y textura natural.",
+      "ingredientes": [
+        "2 tazas de arroz Doña María",
+        "1 zanahoria en cuadritos",
+        "½ taza de ejotes picados",
+        "½ taza de maíz dulce",
+        "½ taza de chiltoma en cubitos",
+        "½ cebolla picada",
+        "2 dientes de ajo picados",
+        "Sal, pimienta y consomé vegetal (opcional)",
+        "Agua o caldo de verduras"
+      ],
+      "preparacion": [
+        "En una olla, sofreí la cebolla, ajo, chiltoma y zanahoria en un poco de aceite.",
+        "Agregar el arroz y remover bien por unos minutos.",
+        "Incorporar los ejotes, el maíz y agua suficiente (2 dedos sobre el nivel del arroz).",
+        "Agregar sal o consomé al gusto. Tapar y cocinar a fuego medio.",
+        "Cuando el arroz esté listo, dejarlo reposar 5 minutos antes de servir."
+      ],
+      "tip": "Puedes agregar trocitos de pollo para hacerlo más completo, o servir con tajadas de plátano maduro."
+    },
+    {
+      "id": 4,
+      "nombre": "Arroz con pollo tradicional",
+      "img": "assets/img/blog/blog-s-1-1.jpg",
+      "img2": "assets/img/blog/recent-post-1-1.jpg",
+      "descripcion_breve": "Un clásico de la cocina nica que no puede faltar en celebraciones. Con arroz Doña María, tu arroz con pollo queda suelto, sabroso y rendidor.",
+      "ingredientes": [
+        "2 tazas de arroz Doña María",
+        "1 pechuga de pollo cocida y desmenuzada",
+        "1 zanahoria rallada",
+        "½ taza de chiltoma picada",
+        "½ cebolla picada",
+        "2 cucharadas de salsa de tomate",
+        "Achiote o paprika al gusto",
+        "1 cubito de pollo (opcional)",
+        "Sal, pimienta y aceite",
+        "Agua o caldo"
+      ],
+      "preparacion": [
+        "En una olla, sofreír la cebolla, chiltoma y zanahoria con un poco de achiote.",
+        "Agregar la salsa de tomate, el pollo desmenuzado y revolver todo muy bien.",
+        "Incorporar el arroz y mezclar por unos minutos.",
+        "Añadí el agua o caldo hasta cubrir el arroz por completo."
+      ]
+    }
+  ]
+}
