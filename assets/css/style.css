@@ -12803,7 +12803,7 @@ span.select2-selection.select2-selection--single:focus {
   right: 51%;
   bottom: 0;
   left: 50%;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgb(33, 32, 32);
 }
 
 .mega-hover:after {
@@ -12811,7 +12811,7 @@ span.select2-selection.select2-selection--single:focus {
   right: 0;
   bottom: 50%;
   left: 0;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(29, 28, 28, 0.784);
 }
 
 .mega-hover:hover:before {
@@ -16823,3 +16823,28 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.offer-card {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Texto blanco */
+    z-index: 1;
+    overflow: hidden;
+    border-radius: 12px; /* opcional */
+}
+
+.offer-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Oscurece siempre la imagen */
+    z-index: 0;
+    pointer-events: none;
+}
+
+.offer-card > * {
+    position: relative;
+    z-index: 1;
+}
