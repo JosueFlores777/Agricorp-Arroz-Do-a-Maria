@@ -138,11 +138,11 @@ export default class Footer {
                 <div class="row gy-2 align-items-center">
                     <div class="col-md-6">
                         <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> ${currentYear} <a
-                                href="index.html">Arroz Doña Maria</a>. All Rights Reserved.</p>
+                                href="index.html">Arroz Doña Maria</a>. Reservados todos los derechos.</p>
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <div class="payment-img">
-                            <img src="assets/img/normal/payment_methods.png" alt="Image">
+                          
                         </div>
                     </div>
                 </div>
